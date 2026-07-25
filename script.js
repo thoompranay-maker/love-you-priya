@@ -48,7 +48,7 @@ heart.remove();
 
 },250);
 
-const start=new Date("2026-07-01T00:00:00");
+const start=new Date("2026-07-22T22:00:00");
 
 function update(){
 
